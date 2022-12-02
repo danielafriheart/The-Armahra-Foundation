@@ -12,17 +12,15 @@ Check me out: https://linktr.ee/danielafriheart
 # ScrollBar customization
 --------------------------------------------------------------*/
 html::-webkit-scrollbar {
-  width: 0.8vw;
+  width: 0.9vw;
 }
 
 html::-webkit-scrollbar-thumb {
   background-color: #F8C471;
-  border-radius: 3em;
 }
 
 html::-webkit-scrollbar-thumb:hover {
   background-color: orange;
-  border-radius: 3em;
 }
 
 html::-webkit-scrollbar-track {
