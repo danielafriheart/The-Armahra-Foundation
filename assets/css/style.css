@@ -7,7 +7,9 @@ Check me out: https://linktr.ee/danielafriheart
 # General
 --------------------------------------------------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap');
-
+*{
+  /* outline: 1px solid green; */
+}
 /*--------------------------------------------------------------
 # ScrollBar customization
 --------------------------------------------------------------*/
